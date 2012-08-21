@@ -1,0 +1,48 @@
+.oneline-view span.first-child {
+	background-image: url(images/oneline-view-off-16.png);
+}
+
+.oneline-view.yui-button-checked span.first-child {
+	background-image: url(images/oneline-view-on-16.png);
+}
+
+.doclist div.oneline div
+{
+   float: left;
+}
+
+.doclist div.oneline div.onActionShowMore
+{
+   clear: both;
+   float: none;
+}
+
+.doclist div.oneline a.action-link span,
+.doclist div.oneline a.simple-link span
+{
+   display: none;
+}
+
+.doclist div.oneline div.more-actions
+{
+   margin-left: -142px;
+}
+
+.doclist div.oneline div.more-actions div
+{
+   float: none;
+}
+
+.doclist div.oneline div.more-actions a.action-link span,
+.doclist div.oneline div.more-actions a.simple-link span
+{
+   display: block;
+}
+
+.no-info-banner {
+	display: none;
+}
+
+.no-detail {
+	display: none;
+}

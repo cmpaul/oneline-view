@@ -1,0 +1,14 @@
+<extension>
+	<modules>
+		<module>
+			<id>One-line Document List View</id>
+			<auto-deploy>true</auto-deploy>
+			<customizations>
+				<customization>
+					<targetPackageRoot>org.alfresco</targetPackageRoot>
+					<sourcePackageRoot>com.tribloom.module.onelineview</sourcePackageRoot>
+				</customization>
+			</customizations>
+		</module>
+	</modules>
+</extension>

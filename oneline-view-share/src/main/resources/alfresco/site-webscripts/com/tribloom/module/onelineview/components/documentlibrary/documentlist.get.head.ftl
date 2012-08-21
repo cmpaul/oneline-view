@@ -1,0 +1,2 @@
+<link rel="stylesheet" type="text/css" href="${page.url.context}/res/oneline-view/components/documentlibrary/documentlist-oneline.css" />
+<script type="text/javascript" src="${page.url.context}/res/oneline-view/components/documentlibrary/documentlist-oneline.js"></script>
